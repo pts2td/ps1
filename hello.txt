@@ -1,0 +1,6 @@
+Hello
+
+I could not get the string manipulation configured so that it would take any input for any file
+So any page that isn't the main connects to this hard coded one
+But I did manage to get it displayed
+
